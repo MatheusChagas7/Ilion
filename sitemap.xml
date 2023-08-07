@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.iliontecnologia.com.br/index.html</loc>
+    <lastmod>2018-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.iliontecnologia.com.br/images/logo%20ilion%20branco.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.iliontecnologia.com.br/images/barra.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.iliontecnologia.com.br/images/if_facebook_194929.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.iliontecnologia.com.br/images/insta.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.iliontecnologia.com.br/images/g-.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.iliontecnologia.com.br/contato.html</loc>
+    <lastmod>2018-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.iliontecnologia.com.br/images/logo%20ilion.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.iliontecnologia.com.br/images/pointer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.iliontecnologia.com.br/images/phone.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.iliontecnologia.com.br/images/mail.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.iliontecnologia.com.br/images/face.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
