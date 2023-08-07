@@ -1,4 +1,4 @@
-<p align="center"><a href="https://MatheusChagas7.github.io/Ilion/" target="_blank"><img src="https://MatheusChagas7.github.io/Ilion/assets/images/logo_ilion_norm.png" width="150px"></a></p>
+<p align="center"><a href="https://matheuschagas7.github.io/Ilion/" target="_blank"><img src="https://matheuschagas7.github.io/Ilion/assets/images/logo_ilion_norm.png" width="150px"></a></p>
 
 <h2 align="center">
     <b>Ilion - site principal</b>
