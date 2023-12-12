@@ -845,12 +845,13 @@ input::-ms-input-placeholder {
 
 .main_portfolio_content{}
 
-.grid{}
-
-.grid-item { width: 16.67%; }
-.portfolio .grid-item{
-    position: relative;
+.grid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+.grid-item { width: 33%; }
 
 .portfolio .grid-item:hover .grid_item_overlay{
     opacity: 1;
