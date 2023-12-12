@@ -79,7 +79,6 @@ img {
     -ms-user-select: none;
     user-select: none;
     -webkit-user-drag: none;
-    user-drag: none;
 }
 a,
 a:hover,
@@ -569,7 +568,6 @@ input::-ms-input-placeholder {
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{
     color:#3670d1;
 }
-.main_menu_bg .navbar {}
 
 .main_menu_bg .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
     color: #3670d1;
@@ -664,9 +662,7 @@ input::-ms-input-placeholder {
 }
 
 /*about section css*/
-.about{}
-.about .main_about_area{}
-.about .main_about_content{}
+
 .about .main_about_content .single_about{
     position: relative;  
     transition: all 0.6s;
@@ -688,7 +684,6 @@ input::-ms-input-placeholder {
     padding: 200px 0px;
     overflow: hidden;
 }
-.video .icon{}
 .video .icon h3{
     color:#E6E7E8;
     margin-top:30px;
@@ -710,7 +705,7 @@ input::-ms-input-placeholder {
     position: relative;
     background: #E6E7E8;
 }
-.main_service_area{}
+
 .service .single_service {
     margin-bottom:30px;
     margin-top:20px;
@@ -726,9 +721,6 @@ input::-ms-input-placeholder {
     color:#95e1d3;
     font-size:2rem;
 }
-.service .single_service .single_service_content{
-
-}
 
 
 /* Team section css */
@@ -738,9 +730,7 @@ input::-ms-input-placeholder {
     background-size: cover;
     color:#E6E7E8;
 }
-.team .main_team{
 
-}
 .team .main_team .head_title h3{
     color:#E6E7E8;
 }
@@ -764,7 +754,7 @@ input::-ms-input-placeholder {
     margin-bottom: .0rem;
     display: inline-block;
 }
-.team .single_team_content .team .single_team_text p{}
+
 
 .team .team_hiring_area{
     margin-top:60px;
@@ -834,23 +824,23 @@ input::-ms-input-placeholder {
 }
 .main_portfolio .head_title h4{
     display: inline-block;
-    float:left;
     font-size:1.375rem;
 }
 .main_portfolio .head_title a{
     display: inline-block;
-    float:right;
     color:#413d4b;
 }
 
-.main_portfolio_content{}
 
-.grid{}
 
-.grid-item { width: 16.67%; }
-.portfolio .grid-item{
-    position: relative;
+.grid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+.grid-item { width: 33%; }
+
 
 .portfolio .grid-item:hover .grid_item_overlay{
     opacity: 1;
@@ -975,16 +965,11 @@ input::-ms-input-placeholder {
     background: #E6E7E8;
 }
 
-.contact .main_clinetslogo{
 
-}
 .contact .main_clinetslogo a {
     overflow: hidden;
     margin-top:20px;
     display: inline-block;
-}
-.contact .main_clinetslogo a img{
-
 }
 
 
@@ -1005,7 +990,7 @@ input::-ms-input-placeholder {
 .main_maps a i{
     font-size:2.5rem;
 }
-.main_maps a h4{}
+
 
 
 
